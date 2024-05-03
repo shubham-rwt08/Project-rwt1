@@ -1,4 +1,11 @@
 git status : Shows status of file 
 ls : Shows all files
+
+*** There are two single commands for Adding files on git hub is:   1.Add     2.Commit
+1.Add
 git add fileName : added new file                               eg: index.html is new file.
 git add -A: used to add All file in single command.
+
+
+2.Commit
+git commit -m "message" : used to commit your new added files.

@@ -1,0 +1,4 @@
+git status : Shows status of file 
+ls : Shows all files
+git add fileName : added new file                               eg: index.html is new file.
+git add -A: used to add All file in single command.

@@ -9,3 +9,7 @@ git add -A: used to add All file in single command.
 
 2.Commit
 git commit -m "message" : used to commit your new added files.
+
+
+*** Now pushing All these file into git(for showing them), we have to use :
+git push origin main
